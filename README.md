@@ -1,2 +1,2 @@
 # chess
-Tabuleiron de xadrez feito em HTML/table
+Tabuleirode xadrez feito em HTML/table
